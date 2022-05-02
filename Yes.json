@@ -39,8 +39,9 @@
     "manifest": {
         "author": "TechnikusGT",
         "name": "Yes",
-        "version": "1.0.0",
-        "license": "Unilicense"
+        "version": "0.7.5",
+        "license": "Unilicense",
+        "updater": "https://raw.githubusercontent.com/TechnikusGT/green/main/Yes.json"
     },
     "raws": {},
     "simple_colors": {

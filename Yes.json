@@ -41,7 +41,7 @@
         "name": "Yes",
         "version": "0.7.5",
         "license": "Unilicense",
-        "updater": "https://raw.githubusercontent.com/TechnikusGT/green/main/Yes.json"
+        "updater": "https:\/raw.githubusercontent.com\/TechnikusGT\/green\/main\/Yes.json"
     },
     "raws": {},
     "simple_colors": {

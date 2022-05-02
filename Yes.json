@@ -39,7 +39,7 @@
     "manifest": {
         "author": "TechnikusGT",
         "name": "Yes",
-        "version": "0.7.5",
+        "version": "1.0.1",
         "license": "Unilicense",
         "updater": "https:\/raw.githubusercontent.com\/TechnikusGT\/green\/main\/Yes.json"
     },

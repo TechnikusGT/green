@@ -1,18 +1,14 @@
 {
     "background": {},
     "colors": {
-        "abc_tint_switch_track": -14711702,
-        "brand_new": -15635114,
         "brand_new_360": -16746365,
         "brand_new_500": -16746365,
         "brand_new_560": -13007502,
         "button_material_dark": -16746365,
-        "channel_item_hub_selector": -15635114,
         "link": -16739938,
         "notification_action_color_filter": -16746365,
         "notification_icon_bg_color": -16746365,
         "primary_630": -14209995,
-        "primary_dark": -16746365,
         "primary_dark_100": -16746365,
         "primary_dark_300": -16746365,
         "primary_dark_400": -16746365,
@@ -27,7 +23,6 @@
         "drawable_button_grey": -16746365,
         "drawable_button_red": -16746365,
         "ic_channel_topic_ellipsis_dark": -16746365,
-        "ic_notifications_settings_white_a60_24dp": -16746365,
         "ic_sidebar_notifications_off_dark_24dp": -16746365,
         "ic_sidebar_notifications_on_dark_24dp": -16746365,
         "ic_sidebar_pins_off_dark_24dp": -16746365,
@@ -41,7 +36,7 @@
         "name": "Yes",
         "version": "1.0.3",
         "license": "The unilicense",
-        "updater": "https://raw.githubusercontent.com/TechnikusGT/green/main/Yes.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/TechnikusGT\/green\/main\/Yes.json"
     },
     "raws": {},
     "simple_colors": {

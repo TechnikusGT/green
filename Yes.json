@@ -1,0 +1,54 @@
+{
+    "background": {},
+    "colors": {
+        "abc_tint_switch_track": -14711702,
+        "brand_new": -15635114,
+        "brand_new_360": -16746365,
+        "brand_new_500": -16746365,
+        "brand_new_560": -13007502,
+        "button_material_dark": -16746365,
+        "channel_item_hub_selector": -15635114,
+        "link": -16739938,
+        "notification_action_color_filter": -16746365,
+        "notification_icon_bg_color": -16746365,
+        "primary_630": -14209995,
+        "primary_dark": -16746365,
+        "primary_dark_100": -16746365,
+        "primary_dark_300": -16746365,
+        "primary_dark_400": -16746365,
+        "primary_dark_600": -15395045,
+        "primary_dark_630": -15395045,
+        "primary_dark_700": -15395045,
+        "uikit_btn_bg_color_selector_green": -16746365,
+        "uikit_settings_item_text_color_light": -16746365,
+        "link_500": -16739938
+    },
+    "drawable_tints": {
+        "drawable_button_grey": -16746365,
+        "drawable_button_red": -16746365,
+        "ic_channel_topic_ellipsis_dark": -16746365,
+        "ic_notifications_settings_white_a60_24dp": -16746365,
+        "ic_sidebar_notifications_off_dark_24dp": -16746365,
+        "ic_sidebar_notifications_on_dark_24dp": -16746365,
+        "ic_sidebar_pins_off_dark_24dp": -16746365,
+        "ic_sidebar_pins_on_dark_24dp": -16746365,
+        "ic_thread": -16746365,
+        "ic_thread_white_24dp": -16746365
+    },
+    "fonts": {},
+    "manifest": {
+        "author": "TechnikusGT",
+        "name": "Yes",
+        "version": "1.0.0",
+        "license": "Unilicense"
+    },
+    "raws": {},
+    "simple_colors": {
+        "accent": -16286865,
+        "active_channel": -16297897,
+        "background": -15395045,
+        "input_background": -15000286,
+        "mention_highlight": -15444916,
+        "statusbar": -15395045
+    }
+}
